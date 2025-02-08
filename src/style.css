@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: rgb(240, 128, 240);
+}
+img {
+    max-width: 300px;
+}
+strong {
+    font-size: large;
+}
+a {
+    display: flex;
+    justify-content: space-around;
+}
